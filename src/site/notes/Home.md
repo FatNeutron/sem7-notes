@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-08-07T13:17:05.507+05:30","updated":"2025-08-17T14:15:01.401+05:30"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-08-07T13:17:05.507+05:30","updated":"2025-08-31T18:47:13.907+05:30"}
 ---
 
 # Welcome to my notes website
@@ -8,6 +8,7 @@ This is where i will **try** to update notes for maybe only this semester. If yo
 
 # Courses
 
+## [[ES4101 \|ES4101 - Structural Geology]]
 ## [[ES4103\|ES4103 - Petrology]]
 ## [[ES4107\|ES4107 - Inverse theory]] 
 
